@@ -3,3 +3,4 @@ Add symbol
 456
 789.
 Add line
+NEW LINE
